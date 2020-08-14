@@ -1,0 +1,17 @@
+.btn1{
+        font-size: 21px; 
+        padding: 8px; 
+        background: aqua;
+        
+      }
+      
+.btn1:hover {background:greenyellow;}
+
+.btn2{
+        font-size: 21px; 
+        padding: 8px;
+        background: burlywood;
+}
+.btn2:hover{
+    background: honeydew;
+}
